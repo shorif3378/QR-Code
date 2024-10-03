@@ -54,7 +54,7 @@
   }
   
   .downloadBtn {
-  background: rgba(0,0,255);
+  background: rgba(0,0,255, .8);
   color: white;
   padding: 8px;
   border-radius: 8px;
