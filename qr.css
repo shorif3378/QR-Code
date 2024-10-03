@@ -65,6 +65,13 @@
   select {
   padding: 5px;
   border-radius: 8px;
+  font-size: 18px;
+  }
+
+  select option {
+    border-radius: 8px;
+    background-color: rgba(54, 35, 160, 0.815);
+    color: yellow;
   }
   
   .qr-area {
